@@ -1,0 +1,11 @@
+{
+  "name": "pythagoraapp",
+  "version": "1.0.0",
+  "description": "github lik is https://shiny-space-waddle-jj7pvr44qqw9cpj5j.github.dev/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
